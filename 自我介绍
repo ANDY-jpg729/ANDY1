@@ -1,0 +1,35 @@
+<html>
+    <title> Andy Tech </title>
+    <html>
+        <style type="text/css">
+            a {color:rgb(255, 0, 0)}
+            b {color: rgb(255, 255, 255);}
+            b1 {color:rgb(255, 166, 0)}
+            c {color:rgb(255, 238, 0)}
+            d {color:rgb(94, 255, 0)}
+            e {color:rgb(0, 255, 191)}
+            f {color:rgb(0, 247, 255)}
+            g {color:rgb(10, 150, 255)}
+            body {background-color: black;}
+        </style>
+    <body>
+        <h1><b>SEIF INTRODUCTION </b></h1>
+        <a><b>NAME:</b><u>Andy</u></a>
+        <p></p>
+        <b1><b>AGE:</b><u>13</u></b1>
+        <p></p>
+        <c><b>ATTEND A SCHOOL:</b><u>Shenzhen Mingde Experimental School</u></c>
+        <p></p>
+        <d><b>CLASS:</b><u>Class 3, Grade 6</u></d>
+        <p></p>
+        <e><b>HOBBY:</b><u>playing</u></e>
+        <p></p>
+        <f><b>THE THING THAT I DON'T LIKE TO DO:</b><u>do homework</u></f>
+        <p></p>
+        <g><b>MY FAVORITE COMPUTER GAME:</b><u>Wild car racing 9</u></g>
+        <p></p>
+        <h><b>MY FAVORITE PICTURES:</b></h>
+        <p></p>
+        <img src="https://iknow-pic.cdn.bcebos.com/562c11dfa9ec8a1387265db3f003918fa0ecc0a1?x-bce-process=image/resize,m_lfit,w_600,h_800,limit_1" />
+    </body>
+</html> 
